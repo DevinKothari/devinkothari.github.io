@@ -7,11 +7,11 @@ layout: default
 **Devin Kothari**  
 
 ### GitHub  
-[GitHub Icon](https://github.com/DevinKothari)  
+GitHub Icon: (https://github.com/DevinKothari)  
 
 ### LinkedIn  
-[LinkedIn Icon](https://www.linkedin.com/in/devin-kothari/)  
+LinkedIn Icon: (https://www.linkedin.com/in/devin-kothari/)  
 
 ### Biosketch  
-I am a computer science student with experience in **software development, cybersecurity, and AI**.  
-My interests include **web development, system security, and tutoring** in computer science.
+I am a computer science student with experience in **software development and cybersecurity**.  
+Within computer science my main interest is **web development** and my tech stack inludes **C#, .NET CORE 8 and PostGres**.
